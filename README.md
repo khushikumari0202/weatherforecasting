@@ -2,8 +2,6 @@
 # Weather Forecast Website
 You can find this website on : https://weatherforecasting-flame.vercel.app/
 
-<img src=" ![WeatherForU_qrcode](https://github.com/user-attachments/assets/2018d2ac-7df0-40ab-b7c1-1ee0e5fd6106) " />
-
 
 This project is a simple weather forecasting web application that allows users to check the current weather conditions for any city around the world. It uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch real-time weather data.
 
